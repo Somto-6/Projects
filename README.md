@@ -1,11 +1,12 @@
 This repository contains some of the projects i have worked on. 
 The contents include: 
--Data preparation and Exploratory data analysis of a housing data set using python.
 
--An exploratory analysis on the Israel-Palestine Conflict using SQL.
+•Data preparation and Exploratory data analysis of a housing data set using python.
 
--Webscraping: getting information on the world's largest companies from the web and storing this information in an excel file.
+•An exploratory analysis on the Israel-Palestine Conflict using SQL.
 
--Predictive data analysis: predicting house prices using a regression model.
+•Webscraping: getting information on the world's largest companies from the web and storing this information in an excel file.
 
--Basic syntax for Creating tables, Inserting values into a table and selecting values from a table in SQL.
+•Predictive data analysis: predicting house prices using a regression model.
+
+•Basic syntax for Creating tables, Inserting values into a table and selecting values from a table in SQL.
